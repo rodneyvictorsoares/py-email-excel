@@ -1,0 +1,26 @@
+# Arquivos de ambiente virtual
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Arquivos de configuração e credenciais
+.env
+
+# Arquivos de logs
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Arquivos relacionados ao PyWin32
+*.pywin32_cache/
+
+# Arquivos temporários
+*.tmp
+*.temp
+
